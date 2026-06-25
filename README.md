@@ -101,6 +101,7 @@ welltrack_analytics/
 ├── dbt_project.yml
 └── README.md
 ```
+<img width="515" height="291" alt="image" src="https://github.com/user-attachments/assets/c30b049a-3b7f-4a28-bab0-a18e8c2af63a" />
 
 ---
 
