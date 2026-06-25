@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: welltrack
+    database: welltrack_db
+    schema: public
+    tables:
+      - name: employees
+      - name: wellness_session
+      - name: health_claims
+      - name: program_enrollment
