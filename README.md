@@ -102,6 +102,10 @@ welltrack_analytics/
 └── README.md
 ```
 <img width="515" height="291" alt="image" src="https://github.com/user-attachments/assets/c30b049a-3b7f-4a28-bab0-a18e8c2af63a" />
+<img width="517" height="293" alt="image" src="https://github.com/user-attachments/assets/ce59f992-c77d-4fcd-bd0a-2e9309595e6d" />
+<img width="516" height="290" alt="image" src="https://github.com/user-attachments/assets/9354feee-cdd9-4282-abab-0523929d4715" />
+
+
 
 ---
 
